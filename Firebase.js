@@ -9,8 +9,6 @@
   };
   firebase.initializeApp(config);
 
-  var db = firebase.database();
-
 
   
   // firebase.auth().createUserWithEmailAndPassword(email, password).catch(function(error) {
